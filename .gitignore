@@ -1,0 +1,5 @@
+# Ignorar archivos .dat dentro de template-repo
+template-repo/*.dat
+
+# Ignorar la carpeta results y todos sus archivos
+template-repo/results/
