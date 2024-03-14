@@ -1,10 +1,11 @@
-# Descripción del script 
+# Descripción del Proyecto 
 
 Fecha: 
 
 **Participantes**:
 
 - nombre : e-mail
+  
 
 ## Descripción del Problema
 
