@@ -1,4 +1,4 @@
-# Descripción del proyecto o script 
+# Descripcion del proyecto o script 
 
 
 
